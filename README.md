@@ -29,9 +29,6 @@ Before parsing, start Ollama and make the model specified in `llm.py` available.
 ## Input and Execution
 
 Run from the project root:
-
-在项目根目录运行：
-
 ```powershell
 cd E:\LLM_LogHGC
 python main.py
